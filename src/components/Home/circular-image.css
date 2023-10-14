@@ -1,0 +1,7 @@
+.circular-image {
+    width: 150px; /* Adjust the width and height to your desired circle size */
+    height: 150px;
+    border-radius: 50%; /* This creates a circular shape */
+    overflow: hidden; /* Hides the parts of the image outside the circle */
+  }
+  
